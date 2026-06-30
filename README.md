@@ -92,8 +92,7 @@ Improvements welcome: additional source/medium values, platform-specific notes, 
 **Avik Bal** is a digital growth strategist and marketing operations practitioner working with B2B software companies.
 
 - LinkedIn: [linkedin.com/in/avikbal](https://linkedin.com/in/avikbal)
-- GitHub: [github.com/avikbal](https://github.com/avikbal)
-- Website: [avikbal.com](https://avikbal.com)
+- GitHub: [github.com/avikbal](https://github.com/avikbal-dm)
 
 ## License
 
